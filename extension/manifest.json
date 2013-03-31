@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+
+  "name": "Achieve-Logger",
+  "description": "This extension helps to track helpful stuff.",
+  "version": "0.0",
+}
